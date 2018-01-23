@@ -3,7 +3,7 @@ import subtract from "./modules/subtract";
 import multiply from "./modules/multiply";
 import divide from "./modules/divide";
 import {addTen, addFive, addOne} from "./modules/addNumbers";
-import {subtractOne} from "./modules/subtractNumbers";
+import {subtractOne, subtractFive, subtractTen} from "./modules/subtractNumbers";
 
 const number1 = 393;
 const number2 = 238;
